@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raz-svg aka Akshit
+- 👋 Hi, I’m  Akshit
 - 👀 I’m interested in ...Machine learning,Blockchain,Theoritical cs,gpu and graphics programing
 - 🌱 I’m currently learning ...Ml and blockchain
 
